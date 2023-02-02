@@ -1,5 +1,5 @@
-# GFG-Java-Programming
-Welcome to my Github repository for Java coding solutions to GeeksForGeeks (GFG) questions!
+# GFG-String
+Welcome to my Github repository for Java coding solutions to GeeksForGeeks (GFG) string based questions!
 
 Here, you will find comprehensive solutions to various coding questions available on the GFG platform, all written in Java. My aim is to provide a resource for individuals looking to improve their Java coding skills and prepare for technical interviews.
 
